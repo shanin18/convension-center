@@ -1,0 +1,59 @@
+.package-hot{
+    background: #3F87F5;
+    border-radius: 30px;
+    color: #FFFFFF;
+}
+
+.hot{
+    position: absolute;
+    top: -15px;
+    right: 30px;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 4px 10px;
+    background-color:#FF4E4E;
+    border-radius: 15px;
+}
+
+.package-hot{
+    position: relative;
+    bottom: 50px;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
+.btn-plan{
+    font-weight: 700;
+    font-size: 15px;
+    color: #3F87F5;
+    background-color: #FFFFFF;
+    border-radius: 26px;
+    border: 1px solid #FFFFFF;
+    width: 100%;
+    padding: 10px;
+}
+
+.btn-plan2{
+    width: 75%;
+    background-color: #fff6fb;
+}
+
+.fa-check{
+    padding: 3px;
+    border-radius: 50%;
+    background-color: #fff6fb;
+    color: #5243C2;
+    margin-right: 10px;
+}
+
+.check-hot{
+    background-color: #5293F6;
+    color: white;
+}
+
+.small-text{
+    font-size: 10px;
+    text-align: center;
+}
+
+.google-play-icon{
+    width: 30px;
+}
